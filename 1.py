@@ -1,0 +1,1 @@
+print("subscribe code by shakib")
